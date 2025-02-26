@@ -1,1 +1,1 @@
-Product: iphone , Stock:10
+Product: mobile , Stock:10
