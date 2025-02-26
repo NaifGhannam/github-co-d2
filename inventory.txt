@@ -1,1 +1,1 @@
-Product: mobile , Stock:30
+prodect : ps stock : 90
