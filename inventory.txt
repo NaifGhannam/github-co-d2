@@ -1,1 +1,2 @@
 prodect : ps stock : 90
+Product: Tablet, Stock: 10
