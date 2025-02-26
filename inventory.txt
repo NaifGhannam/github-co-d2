@@ -1,1 +1,2 @@
 prodect : ps stock : 90
+Product: Phone, Stock: 15
