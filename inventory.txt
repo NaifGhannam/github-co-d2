@@ -1,1 +1,1 @@
-Product: Laptop, Stock:20
+Product: iphone , Stock:10
